@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a397082709f5c764b8da64499b8d54fb
+timeCreated: 1520440742
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Virtual Pet Sans
+  fontNames:
+  - Virtual Pet Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
