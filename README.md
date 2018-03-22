@@ -10,7 +10,7 @@ Introduction: The theme of this game is a small fireball jumps onto platforms to
 The Objective:
 •	Player must jump onto different types of platforms (regular platforms, moving platforms, and invisible platforms)
 •	Improve upon the numbers of collected scores(hearts) of the game
-•	Player can enjoy the vintage arcade pixel art, just like the games they played on their Game Boy. 
+•	Player can enjoy the vintage arcade pixel art, just like the games they played on their Game Boy 
 •	Player can shoot enemies and kill them
 
 Genre:
